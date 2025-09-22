@@ -1,4 +1,4 @@
-NUCES AI Hub: https://nucesai.vercel.app/
+UCES AI Hub: https://nucesai.vercel.app/
 
 ## Repository: Academic Time Machine
 
